@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Student-FastDev/Autofarm-Script-For-World-Tower-Defense/main/autofarm.lua",true))();
