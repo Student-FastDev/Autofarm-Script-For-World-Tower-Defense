@@ -7,15 +7,15 @@
 > If you need help with script, write dm to me.
 
 #### Information
-> Use this with a hat that allows the tower to move around.
-> Equip soldier in the first slot.
-> Only works on "Crossroads" map. (You can only get it in private servers. They are free)
-> Turn on auto execute with this script, and auto attach.
+> Use this with a hat that allows the tower to move around. <br>
+> Equip soldier in the first slot. <br>
+> Only works on "Crossroads" map. (You can only get it in private servers. They are free) <br>
+> Turn on auto execute with this script, and auto attach. <br>
 
 
 #### Profit
 > Use this with a hat that allows the tower to move around. <br>
-> Equip soldier in the first slot.
+> Equip soldier in the first slot. 
 > Only works on "Crossroads" map. (You can only get it in private servers. They are free)
 > Turn on auto execute with this script, and auto attach.
 
