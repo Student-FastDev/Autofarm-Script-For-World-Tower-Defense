@@ -15,9 +15,6 @@
 
 #### Profit
 > Use this with a hat that allows the tower to move around. <br>
-> Equip soldier in the first slot. 
-> Only works on "Crossroads" map. (You can only get it in private servers. They are free)
-> Turn on auto execute with this script, and auto attach.
 
 
 ### My Discord : FAST#1649
