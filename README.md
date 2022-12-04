@@ -1,5 +1,5 @@
 
-### Autofarm Script for World-Tower Defense
+### Autofarm Script for World Tower Defense
 > This is the ultimate autofarm for roblox world tower defense game.
 
 
